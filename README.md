@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <h1>👋 Hi, I'm Mahendra Yadav</h1>
+  <h2>🚀 A Data Enthusiast!</h2>
+  <p>“Data are just summaries of thousands of stories — tell a few of those stories to help make the data meaningful.”<br>~ Dan Heath</p>
+</div>
 
-<!--
-**Mahendrayadav-boop/Mahendrayadav-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌟 **About Me**
+- 🎯 Passionate about Data Science, ML, and AI.
+- 🧠 Currently exploring Generative AI and RAG applications.
+- 📊 Love turning data into stories that drive decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📫 **Connect with me:**
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
+- [Portfolio](https://YOUR-PORTFOLIO.com)
+- [Email](mailto:YOUR-EMAIL)
