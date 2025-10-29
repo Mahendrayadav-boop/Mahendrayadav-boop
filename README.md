@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Mahendra Yadav</h1>
+  <h1> Hi, I'm Mahendra Yadav 👋</h1>
   <h2>🚀 A Data Enthusiast!</h2>
   <p>“Data are just summaries of thousands of stories — tell a few of those stories to help make the data meaningful.”<br>~ Dan Heath</p>
 </div>
