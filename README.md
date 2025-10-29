@@ -13,7 +13,7 @@
 
 ---
 
-📫 **Connect with me:**
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
-- [Portfolio](https://YOUR-PORTFOLIO.com)
-- [Email](mailto:YOUR-EMAIL)
+📫 **Connect with me:**[
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)](https://www.linkedin.com/in/mahendra-yadav-v)
+- [[Portfolio](https://YOUR-PORTFOLIO.com)](https://github.com/Mahendrayadav-boop)
+- [Email](mailto:vavitimahendra@gmail.com)
